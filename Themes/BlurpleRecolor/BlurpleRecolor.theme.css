@@ -19,7 +19,7 @@
 /* All colors are in RGB format (red, green, blue) use: https://www.google.com/search?q=colorpicker	*/
 
 :root {
-	--accentcolor:			255,0,0;		/*	blurple		-	default:	88,101,242		*/
-	--accentcolor2:			255,0,0;	/*	boostpink	-	default:	255,115,250		*/
-	--linkcolor:			255,0,0;		/*	link		-	default:	0,176,244		*/
+	--accentcolor:			116,77,169;		/*	blurple		-	default:	88,101,242		*/
+	--accentcolor2:			116,77,169;	/*	boostpink	-	default:	255,115,250		*/
+	--linkcolor:			116,77,169;		/*	link		-	default:	0,176,244		*/
 }
